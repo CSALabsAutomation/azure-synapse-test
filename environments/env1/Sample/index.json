@@ -1,0 +1,18 @@
+[
+    {
+        "template": "SynapseLab",
+        "artifacts" : {
+            "sqlScripts": [],
+            "pipelines": [],
+            "datasets":[],
+            "notebooks": [],
+            "linkedServices":[],
+            "dataflows":[],
+            "databases": [],
+            
+                }
+            
+        
+    }
+    
+]
